@@ -1,2 +1,4 @@
-void
-print computer
+void main(){
+     printf("people");
+
+}
